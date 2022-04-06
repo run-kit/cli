@@ -25,7 +25,11 @@ toc: menu
 - [update-notifier](./update-notifier)，npm 在线检查更新。
 - [handlebars](./handlebars)，实现模板字符替换。
 - [download](./download)，实现文件远程下载。
-
+- [listr](./listr)，可以在命令行中画出进度列表的工具。
+- [ncp](./ncp)，可以实现跨平台递归拷贝文件。
+- [pkg-install](./pkg-install)，可以使用 `yarn install` 或 `npm install` 安装依赖。
+- [semver](./semver)，专门分析语义化版本的工具。
+- [execa](./execa)，可以衍生一个 `shell`，传入 `command` 字符串在该 `shell` 直接处理的子进程管理工具，支持 `promise` 回调。
 ## 参考资料
 
 - [npmjs](https://www.npmjs.com/search?q=keywords:cli)
